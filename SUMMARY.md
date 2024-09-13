@@ -4,4 +4,4 @@
 
 ## 使用示例
 
-* [第一个示例](shi-li-01/di-yi-ge-shi-li.md)
+* [数据整理](Example/data-collation.md)
