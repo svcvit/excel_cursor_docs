@@ -1,7 +1,7 @@
-# Table of contents
+# 目录
 
-* [Page](README.md)
+* [Excel Cursor 介绍](README.md)
 
-## 示例01
+## 使用示例
 
 * [第一个示例](shi-li-01/di-yi-ge-shi-li.md)
