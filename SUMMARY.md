@@ -1,6 +1,7 @@
 # 目录
 
-* [Excel Cursor 介绍](README.md)
+* [由来](ORIGIN.md)
+* [介绍](README.md)
 
 ## 使用示例
 
