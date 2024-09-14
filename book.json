@@ -1,0 +1,23 @@
+{
+    "structure": {
+      "readme": "README.md"
+    },
+    "plugins": ["language-picker"],
+    "pluginsConfig": {
+      "language-picker": {
+        "grid-columns": 2
+      }
+    },
+    "languages": [
+      {
+        "lang": "zh",
+        "name": "中文",
+        "path": "zh"
+      },
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "en"
+      }
+    ]
+  }
