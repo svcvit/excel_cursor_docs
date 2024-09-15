@@ -5,5 +5,5 @@
 
 ## Usage Examples
 
-* [Data Collation](Example/data-collation.md)
-* [Pivot Table](Example/pivot-table.md)
+* [Pivot Table](Example/Pivot-Table.md)
+* [Order Profit Statistics](Example/Order-Profit-Statistics.md)

@@ -1,4 +1,4 @@
-``# Order Profit Statistics
+# Order Profit Statistics
 Calculate the total profit amount for each year based on order data.
 
 ## Sample Data

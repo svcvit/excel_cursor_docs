@@ -35,12 +35,12 @@ def update_summary(directory, summary_file):
     with open(summary_file, 'w', encoding='utf-8') as file:
         file.write(new_content)
 
-# 执行重命名操作
+# Perform renaming operation
 example_dir = 'Example'
 rename_files(example_dir)
 
-# 更新 SUMMARY.md 文件
+# Update SUMMARY.md file
 summary_file = 'SUMMARY.md'
 update_summary(example_dir, summary_file)
 
-print("文件重命名和 SUMMARY.md 更新完成。")
+print("File renaming and SUMMARY.md update completed.")
