@@ -5,5 +5,5 @@
 
 ## Usage Examples
 
-* [Pivot Table](Example/Pivot-Table.md)
+* [Monthly Summary](Example/Monthly-Summary.md)
 * [Order Profit Statistics](Example/Order-Profit-Statistics.md)
