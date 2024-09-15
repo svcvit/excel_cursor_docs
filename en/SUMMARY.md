@@ -5,5 +5,5 @@
 
 ## Usage Examples
 
-* [Monthly Summary](Example/Monthly-Summary.md)
+* [Monthly Sales Breakdown](Example/Monthly-Sales-Breakdown.md)
 * [Order Profit Statistics](Example/Order-Profit-Statistics.md)
